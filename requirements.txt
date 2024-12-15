@@ -1,0 +1,6 @@
+Django
+djangorestframework
+python-dotenv
+bardapi
+twilio
+django-cors-headers
