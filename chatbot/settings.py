@@ -83,9 +83,9 @@ WSGI_APPLICATION = 'chatbot.wsgi.application'
 
 
 #twillio configurations
-TWILIO_ACCOUNT_SID = 'AC964b458a2b4c66e2b0fd9de0ab3a148c'
-TWILIO_AUTH_TOKEN = '6fd33517a1a0983c9cfd992a0eb0f618'
-TWILIO_WHATSAPP_NUMBER = 'whatsapp:+14155238886'
+TWILIO_ACCOUNT_SID = os.getenv("twilio_ssid")
+TWILIO_AUTH_TOKEN = os.getenv("twilio_token")
+TWILIO_WHATSAPP_NUMBER = os.getenv("twilio_number")
 
 
 # Database
