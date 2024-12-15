@@ -49,7 +49,7 @@ Follow these steps to set up and run the Krushak AI project locally:
    Clone the Git repository to your local system:
 
    ```bash
-   git clone <repository_link>
+   git clone https://github.com/Lava-Kumar-PL/krushak
    ```
 
 2. **Create and Activate a Virtual Environment**
@@ -93,7 +93,7 @@ SESSION_ID=<your_session_id>
    Change to the project directory and start the Django development server:
 
 ```bash
-cd <project_directory>
+cd krushak
 ```
 
 ```bash
@@ -120,3 +120,10 @@ After starting the server, you’ll land on the home page. This page introduces 
 - **Weather**: Check real-time weather updates.
 - **Schemes**: View region-based schemes and subsidies.
 - **Crop Info**: Get detailed information about vegetables by name.
+
+## Results
+  <img src="https://github.com/Lava-Kumar-PL/krushak/blob/main/result/krushak%20.gif" width="550" /> 
+  
+  <img src="https://github.com/Lava-Kumar-PL/krushak/blob/main/result/chat.png" width="400" />  
+     
+  <img src="https://github.com/Lava-Kumar-PL/krushak/blob/main/result/gov1.png" width="400" />  <img src="https://github.com/Lava-Kumar-PL/krushak/blob/main/result/gov2.png" width="400" /> !
